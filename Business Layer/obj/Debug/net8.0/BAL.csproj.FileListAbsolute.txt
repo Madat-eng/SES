@@ -1,0 +1,17 @@
+D:\SES Project\SES\Business Layer\bin\Debug\net8.0\BAL.deps.json
+D:\SES Project\SES\Business Layer\bin\Debug\net8.0\BAL.dll
+D:\SES Project\SES\Business Layer\bin\Debug\net8.0\BAL.pdb
+D:\SES Project\SES\Business Layer\bin\Debug\net8.0\DAL.dll
+D:\SES Project\SES\Business Layer\bin\Debug\net8.0\DAL.pdb
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Outlook.dll
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.csproj.ResolveComReference.cache
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.csproj.Up2Date
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.dll
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\refint\BAL.dll
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\BAL.pdb
+D:\SES Project\SES\Business Layer\obj\Debug\net8.0\ref\BAL.dll
