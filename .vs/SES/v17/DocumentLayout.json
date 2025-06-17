@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\SES Project\\SES\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61769154-174E-484E-A247-DE7F4B305611}|SendingEmaileveryWeek\\SendingEmaileveryWeek.csproj|d:\\ses project\\ses\\sendingemaileveryweek\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61769154-174E-484E-A247-DE7F4B305611}|SendingEmaileveryWeek\\SendingEmaileveryWeek.csproj|solutionrelative:sendingemaileveryweek\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9E2E245-A208-4AFB-8342-1437BAB21E32}|EmailService\\EmailService.csproj|d:\\ses project\\ses\\emailservice\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E2E245-A208-4AFB-8342-1437BAB21E32}|EmailService\\EmailService.csproj|solutionrelative:emailservice\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61769154-174E-484E-A247-DE7F4B305611}|SendingEmaileveryWeek\\SendingEmaileveryWeek.csproj|d:\\ses project\\ses\\sendingemaileveryweek\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61769154-174E-484E-A247-DE7F4B305611}|SendingEmaileveryWeek\\SendingEmaileveryWeek.csproj|solutionrelative:sendingemaileveryweek\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Worker.cs",
               "DocumentMoniker": "D:\\SES Project\\SES\\SendingEmaileveryWeek\\Worker.cs",
               "RelativeDocumentMoniker": "SendingEmaileveryWeek\\Worker.cs",
               "ToolTip": "D:\\SES Project\\SES\\SendingEmaileveryWeek\\Worker.cs",
               "RelativeToolTip": "SendingEmaileveryWeek\\Worker.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T19:13:47.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmailController.cs",
               "DocumentMoniker": "D:\\SES Project\\SES\\EmailService\\Controllers\\EmailController.cs",
               "RelativeDocumentMoniker": "EmailService\\Controllers\\EmailController.cs",
